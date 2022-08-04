@@ -1,5 +1,5 @@
 # Basic-Exercise-App
-# This is the first phase code for my first project that I did by myself!
+# This is the first phase code for my first project that I did by myself! I will continue to improve this by adding more input, options and functions over time!
 
 muscle_group = ['chest', 'legs', 'shoulders', 'abs', 'arms']
 difficulty_level = ['easy', 'medium', 'hard']
