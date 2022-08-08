@@ -12,7 +12,7 @@ muscle_group = ['chest', 'legs', 'shoulders', 'abs', 'arms']
 difficulty_level = ['easy', 'medium', 'hard']
 
 """I then created a new string input function based on my muscle_group function which will allow
-me to compare any input from this function to the muscle_group function during the 
+me to compare any input from this function to the muscle_group function for the 
 relevant if and else statement."""
 
 print('what muscle group would you like to exercise?')
@@ -59,7 +59,7 @@ else:
 allows the user to ask the app to suggest sets and reps for their chosen exercise based on the 
 difficulty they have chosen. This was done by creating another input (sets_and_reps_input) and
 another if and else statement along with it within the main if statement (a nested if/else statement)
-that allows the user to index the difficulty_level function."""
+that allows the user to index the difficulty_level function to choose the difficulty level they want."""
 
 print('Would you like me to suggest how many sets and reps you should aim for your exercise? State (Y/N)')
 sets_and_reps = input()
